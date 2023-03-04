@@ -3,7 +3,7 @@ import './App.css'
 import ProductsCard from './components/ProductsCard'
 
 function App() {
-  const url = "http://makeup-api.herokuapp.com/api/v1/products.json"
+  const url = "https://makeup-api.herokuapp.com/api/v1/products.json"
   const [makeUps, setMakeUps] = useState([])
   
 
