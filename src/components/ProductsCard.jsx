@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-// import { truncateStrings } from '../utils'
+import { truncateStrings } from '../utils'
 
 const ProductsCard = (props) => {
 //   const truncateStrings = (strings) => {
