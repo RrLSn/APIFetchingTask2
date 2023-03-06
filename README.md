@@ -4,7 +4,7 @@
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/APIfetchingTask.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/APIFetchingTask2.git
 
 # Tech/framework used
 REACT VITE 
