@@ -20,7 +20,7 @@ function App() {
   // console.log(makeUps)
 
   return (
-    <section className="App bg-[pink] w-[98.7vw] h-[auto] p-[3rem] overflow-x-hidden">
+    <section className="App bg-[pink] w-[98.7vw] min-h-[100vh] p-[3rem] overflow-x-hidden">
       <h1 className='text-7xl font-[700] text-center text-[#4e4c4c]'>AFOOS MAKEUP</h1>
       <p className='text-center italic underline text-[1.3rem] mt-[.5rem]'>We give the best and Quality</p>
       
